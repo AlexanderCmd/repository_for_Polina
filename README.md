@@ -12,6 +12,6 @@
 
 - run_me.exe -decoding input.txt -o out.txt
 
-## Run example
+## Run example <
 
 - run_me.exe -decoding example\input.txt -o out.txt
